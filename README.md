@@ -33,7 +33,7 @@ Utilisation des Rôles : Attribuez les rôles appropriés aux utilisateurs pour 
 Sauvegardes Régulières : Bien que Kemcloud effectue des sauvegardes automatiques, il est recommandé de télécharger régulièrement des copies locales des documents critiques.
 
 Support et Assistance
-Pour toute assistance technique, veuillez contacter le support Kemcloud à l'adresse suivante : support@kemsoft.com.
+Pour toute assistance technique, veuillez contacter le support Kemcloud à l'adresse suivante : support@kemsoft.net.
 
 Mises à Jour
 Mises à jour Automatiques : Kemcloud reçoit des mises à jour automatiques pour améliorer les fonctionnalités et la sécurité.
