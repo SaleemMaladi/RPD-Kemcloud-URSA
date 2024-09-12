@@ -18,7 +18,7 @@ Connexion Internet : Une connexion stable pour un fonctionnement optimal.
 Compte Utilisateur : Les membres de l'URSA doivent disposer de comptes d'utilisateur pour accéder à Kemcloud.
 
 Installation et Accès
-Accès à Kemcloud : Rendez-vous sur l'URL https://kemcloud.ursa.com et connectez-vous avec vos identifiants URSA.
+Accès à Kemcloud : Rendez-vous sur l'URL https://cloud.ursa-km.org et connectez-vous avec vos identifiants URSA.
 Création de Comptes Utilisateurs : Les administrateurs peuvent créer et gérer des comptes utilisateurs depuis l'interface d'administration.
 
 Guide d'Utilisation
